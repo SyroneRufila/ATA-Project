@@ -1,0 +1,141 @@
+﻿@page
+@model TrackingApp.Pages.Clients.ListModel
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+}
+
+<style>
+    .client-list-container {
+        background-color: white;
+        height: 700px;
+        overflow-y: hidden;
+    }
+
+    .client-list-table {
+        table-layout: fixed;
+        height: 100%;
+        overflow-y: scroll;
+    }
+
+    .pagination-container {
+        position: sticky;
+        bottom: 0;
+        background-color: white;
+        padding: 10px 0;
+        z-index: 1;
+    }
+</style>
+
+<div class="form-buttons">
+    <h1 class="mb-3">Client List</h1>
+    <div class="form-group" style="padding-bottom: 10px;">
+        <a href="/Clients/Search" class="btn btn-dark">Back</a>
+    </div>
+    <div class="form-group">
+        <div class="input-group">
+            <input type="text" id="searchInput" class="form-control" placeholder="Search by Tracking Number" />
+        </div>
+    </div>
+</div>
+
+<div class="container client-list-container">
+    <div class="client-list-table" style="padding-top: 10px;">
+        <table class="table table-hover table-bordered" style="border: 5px solid black;">
+            <thead>
+                <tr>
+                    <th>Action</th>
+                    <th>Tracking Number</th>
+                    <th>Last Name</th>
+                    <th>First Name</th>
+                    <th>Middle Name</th>
+                    <th>Suffix Name</th>
+                    <th>Graduate</th>
+                    <th>Year Graduated</th>
+                    <th>Email</th>
+                    <th>Student Number</th>
+                    <th>Employed</th>
+                    <th>Program</th>
+                    <th>Record</th>
+                    <th>Document Status</th>
+                </tr>
+            </thead>
+            <tbody id="clientTableBody">
+                @foreach (var client in Model.Clients)
+                {
+                    <tr>
+                        <td>
+                            <a href="/Clients/Edit/@client.id" class="btn btn-primary">Edit</a>
+                        </td>
+                        <td>@client.trackingnumber</td>
+                        <td>@client.lastname</td>
+                        <td>@client.firstname</td>
+                        <td>@client.middlename</td>
+                        <td>@client.suffixname</td>
+                        <td>@client.graduate</td>
+                        <td>@client.yeargraduated</td>
+                        <td>@client.email</td>
+                        <td>@client.studentnumber</td>
+                        <td>@client.employment</td>
+                        <td>@client.program</td>
+                        <td>@client.recordRequested @client.others</td>
+                        <td>@client.status</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="pagination-container">
+    <nav>
+        <ul class="pagination justify-content-center">
+            @if (Model.PageNumber > 1)
+            {
+                <li class="page-item">
+                    <a class="page-link" href="/Clients/List?pageNumber=@(Model.PageNumber - 1)">Previous</a>
+                </li>
+            }
+            @for (int i = 1; i <= Model.TotalPages; i++)
+            {
+                <li class="page-item @(Model.PageNumber == i ? "active" : "")">
+                    <a class="page-link" href="/Clients/List?pageNumber=@i">@i</a>
+                </li>
+            }
+            @if (Model.PageNumber < Model.TotalPages)
+            {
+                <li class="page-item">
+                    <a class="page-link" href="/Clients/List?pageNumber=@(Model.PageNumber + 1)">Next</a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var searchInput = $('#searchInput');
+        var clientTableBody = $('#clientTableBody');
+
+        // Function to filter the client table based on the search input
+        function filterClientTable() {
+            var searchTerm = searchInput.val().toLowerCase();
+
+            clientTableBody.find('tr').each(function () {
+                var row = $(this);
+                var trackingNumber = row.find('td:eq(1)').text().toLowerCase();
+
+                if (trackingNumber.includes(searchTerm)) {
+                    row.show();
+                } else {
+                    row.hide();
+                }
+            });
+        }
+
+        // Listen for changes in the search input
+        searchInput.on('input', function () {
+            filterClientTable();
+        });
+    });
+</script>

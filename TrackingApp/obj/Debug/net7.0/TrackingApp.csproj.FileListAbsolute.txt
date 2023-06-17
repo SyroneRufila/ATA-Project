@@ -1,0 +1,600 @@
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\TrackingApp.staticwebassets.runtime.json
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\TrackingApp.exe
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\TrackingApp.deps.json
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\TrackingApp.runtimeconfig.json
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\TrackingApp.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\TrackingApp.pdb
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.AssemblyReference.cache
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfoInputs.cache
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfo.cs
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cache
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cs
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.TrackingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TrackingApp.props
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrackingApp.props
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrackingApp.props
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\scopedcss\bundle\TrackingApp.styles.css
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\scopedcss\projectbundle\TrackingApp.bundle.scp.css
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CopyComplete
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\refint\TrackingApp.dll
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.pdb
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\TrackingApp.genruntimeconfig.cache
+C:\Users\Yunchul\source\repos\TrackingApp\TrackingApp\obj\Debug\net7.0\ref\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\appsettings.json
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\TrackingApp.staticwebassets.runtime.json
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\TrackingApp.exe
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\TrackingApp.deps.json
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\TrackingApp.runtimeconfig.json
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.AssemblyReference.cache
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfoInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.TrackingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\scopedcss\bundle\TrackingApp.styles.css
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\scopedcss\projectbundle\TrackingApp.bundle.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CopyComplete
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\refint\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\TrackingApp.genruntimeconfig.cache
+C:\Users\DIONEDA\source\repos\TrackingApp70\TrackingApp\obj\Debug\net7.0\ref\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\appsettings.json
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\TrackingApp.staticwebassets.runtime.json
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\TrackingApp.exe
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\TrackingApp.deps.json
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\TrackingApp.runtimeconfig.json
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.AssemblyReference.cache
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfoInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.TrackingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\scopedcss\bundle\TrackingApp.styles.css
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\scopedcss\projectbundle\TrackingApp.bundle.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CopyComplete
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\refint\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\TrackingApp.genruntimeconfig.cache
+C:\Users\DIONEDA\source\repos\TrackingApp71\TrackingApp\obj\Debug\net7.0\ref\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\appsettings.json
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\TrackingApp.staticwebassets.runtime.json
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\TrackingApp.exe
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\TrackingApp.deps.json
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\TrackingApp.runtimeconfig.json
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.AssemblyReference.cache
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfoInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.TrackingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\scopedcss\bundle\TrackingApp.styles.css
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\scopedcss\projectbundle\TrackingApp.bundle.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CopyComplete
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\refint\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\TrackingApp.genruntimeconfig.cache
+C:\Users\DIONEDA\source\repos\TrackingApp73\TrackingApp\obj\Debug\net7.0\ref\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\appsettings.json
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.staticwebassets.runtime.json
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.exe
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.deps.json
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.runtimeconfig.json
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.AssemblyReference.cache
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfoInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.TrackingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\scopedcss\bundle\TrackingApp.styles.css
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\scopedcss\projectbundle\TrackingApp.bundle.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CopyComplete
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\refint\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.genruntimeconfig.cache
+C:\Users\DIONEDA\source\repos\TrackingApp74\TrackingApp\obj\Debug\net7.0\ref\TrackingApp.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.staticwebassets.runtime.json
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.exe
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.deps.json
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.runtimeconfig.json
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\TrackingApp.pdb
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.AssemblyReference.cache
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfoInputs.cache
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfo.cs
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cache
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cs
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.TrackingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TrackingApp.props
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrackingApp.props
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrackingApp.props
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\scopedcss\bundle\TrackingApp.styles.css
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\scopedcss\projectbundle\TrackingApp.bundle.scp.css
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CopyComplete
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\refint\TrackingApp.dll
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.pdb
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\TrackingApp.genruntimeconfig.cache
+C:\Users\Syrone\Desktop\Movie Clips\TrackingApp74\TrackingApp\obj\Debug\net7.0\ref\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\appsettings.json
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.staticwebassets.runtime.json
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.exe
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.deps.json
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.runtimeconfig.json
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.AssemblyReference.cache
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfoInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cache
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cs
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.TrackingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrackingApp.props
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\scopedcss\bundle\TrackingApp.styles.css
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\scopedcss\projectbundle\TrackingApp.bundle.scp.css
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CopyComplete
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\refint\TrackingApp.dll
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.pdb
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.genruntimeconfig.cache
+C:\Users\DIONEDA\source\repos\TrackingApp75\TrackingApp\obj\Debug\net7.0\ref\TrackingApp.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\appsettings.json
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.staticwebassets.runtime.json
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.exe
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.deps.json
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.runtimeconfig.json
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\TrackingApp.pdb
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.AssemblyReference.cache
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfoInputs.cache
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.AssemblyInfo.cs
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cache
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.RazorAssemblyInfo.cs
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.TrackingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.TrackingApp.props
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TrackingApp.props
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TrackingApp.props
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\scopedcss\bundle\TrackingApp.styles.css
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\scopedcss\projectbundle\TrackingApp.bundle.scp.css
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.csproj.CopyComplete
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\refint\TrackingApp.dll
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.pdb
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\TrackingApp.genruntimeconfig.cache
+C:\Users\syron\Downloads\TrackingApp75\TrackingApp75\TrackingApp\obj\Debug\net7.0\ref\TrackingApp.dll

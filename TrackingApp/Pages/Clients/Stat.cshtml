@@ -1,0 +1,57 @@
+﻿@page
+@model TrackingApp.Pages.Clients.StatModel
+@{
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="card border-0 shadow">
+        <div class="card-body p-5">
+            <div class="text-center">
+                <h1 class="fw-light">Request Results</h1>
+            </div>
+                @if (Model.Client != null)
+                {
+
+                    <div class="card mt-4">
+                        <div class="card-header">
+                            Save Your Tracking Number to track it!
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">Tracking Number: @Model.Client.trackingnumber</li>
+                            <li class="list-group-item">Full Name: @Model.Client.firstname @Model.Client.middlename @Model.Client.lastname @Model.Client.suffixname</li>
+                            <li class="list-group-item">Student Number: @Model.Client.studentnumber</li>
+                            <li class="list-group-item">Program: @Model.Client.program</li>
+                            <li class="list-group-item">
+                                Document Requested: @Model.Client.recordRequested
+                                @Model.Client.others
+                            </li>
+                            <li class="list-group-item">
+                                Status:
+
+                                @if (Model.Client.status == "Pending")
+                                {
+                                    <span class="badge badge-pill" style="background-color: red; color: white;">Pending</span>
+                                }
+                                else if (Model.Client.status == "Received")
+                                {
+                                    <span class="badge badge-pill" style="background-color: green; color: white;">Completed</span>
+                                }
+                            </li>
+
+                        
+                    </div>
+                <br>
+                <div class="form-group">
+                    <a href="/Clients/Search" class="btn btn-dark">Back</a>
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        background-cover: white;
+    }
+</style>

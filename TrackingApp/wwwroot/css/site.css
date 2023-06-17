@@ -1,0 +1,438 @@
+@font-face {
+    font-family: 'Sports World';
+    src: url('/css/sports_world/Sports World-Regular.otf') format('opentype');
+}
+
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-image: url('/Images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: transparent !important;
+}
+
+.vh-100 {
+    height: 80vh !important;
+}
+
+.form-select:focus,
+.form-check-input:focus,
+.form-control:focus {
+    box-shadow: none;
+}
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.fade-in.show {
+    opacity: 1;
+}
+
+.navbar > .container, .navbar > .container-fluid, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container-xl, .navbar > .container-xxl {
+    display: flex;
+    align-items: center;
+    padding-top: 2%;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 60px;
+    border: 3px solid blue;
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 0;
+}
+
+.logo-text {
+    margin: 0;
+    padding: 5px;
+    color: blue;
+    font-family: 'Sports World', sans-serif;
+    font-size: 30px;
+}
+
+.button-container {
+    margin-left: 10px;
+}
+
+.button {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    font-family: 'Sports World', sans-serif;
+    text-decoration: none;
+    font-size:20px;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+}
+
+.border-black {
+    border: 3px solid black;
+}
+
+.btn-yellow-border {
+    border-color: yellow !important;
+}
+
+
+
+
+.search-box {
+    background-color: #A5C3C1;
+    padding: 80px;
+    border-radius: 10px;
+    text-align: center;
+    border: 3px solid black;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 542px;
+    height: 250px;
+    padding-right: 0;
+    position: absolute;
+    top: 71.5%;
+    left: 55%;
+    transform: translate(0, -50%);
+}
+
+
+.blog-box {
+    background-color: #A5C3C1;
+    padding: 80px;
+    border-radius: 10px;
+    text-align: center;
+    border: 3px solid black;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 510px;
+    height:300px;
+    padding-right: 0;
+    position: absolute;
+    top: 36.5%;
+    left: 55%;
+    transform: translate(0, -50%);
+}
+.blog-box1 {
+    background-color: #A5C3C1;
+    padding: 80px;
+    border-radius: 10px;
+    text-align: center;
+    border: 3px solid black;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 510px;
+    height: 300px;
+    padding-right: 0;
+    top: 60%;
+    left: 0%;
+    transform: translate(0, -50%);
+    position: relative;
+}
+
+.blog-box1 img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+    display: none;
+}
+
+/* Active slideshow image */
+.blog-box1 img.active {
+  display: block;
+}
+
+.search-box h5 {
+    margin-bottom: 5px;
+    text-align: left;
+    border-radius: 10px;
+    font-size: 45px;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+
+}
+
+.search-container input[type="search"] {
+    flex: 1;
+    margin-right: 10px;
+    border: 3px solid black;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.search-container button {
+    border-radius: 0;
+}
+
+.button-container {
+    margin-left: 0px;
+    margin-top: 5px;
+    text-align: left;
+}
+
+.button-container button {
+    background-color: #F6E54D;
+    border-radius: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    font-family: 'Sports World', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+}
+.form-control{
+    width:95%;
+}
+.custom-button {
+    background-color: #F6E54D;
+    border-radius: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    font-family: 'Sports World', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.custom-button:hover {
+    background-color: black;
+    color: white;
+}
+
+.image-container img {
+  max-width: 100%;
+  max-height: 100%;
+  width: 700px;
+  height: auto;
+  border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+  .image-container {
+    flex-basis: 100%;
+    text-align: center;
+    padding-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .search-box {
+    flex-basis: 100%;
+    margin-top: 0;
+  }
+}
+
+.container {
+    flex-wrap: wrap;
+}
+
+.Bodypage {
+    margin-top:5%;
+}
+
+
+.image-container {
+    position: relative;
+    width: 800px; /* Adjust the width as needed */
+    height: 700px; /* Adjust the height as needed */
+}
+
+.slideshow-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.slideshow-image.active {
+    opacity: 1;
+}
+
+.form-container {
+    display: grid;
+    gap: 10px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+
+
+.form-container label {
+    font-weight: bold;
+}
+
+.form-container input,
+.form-container select {
+    width: 100%;
+    padding: 5px;
+}
+
+.form-container .name-fields {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+
+}
+
+.form-container .address-fields {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 10px;
+}
+
+.form-container .graduation {
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr;
+    gap: 10px;
+}
+
+.form-container .employment-details {
+    display: none;
+    margin-top: 10px;
+}
+
+.form-container .employment-details label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-container .submit-button {
+    margin-top: 10px;
+}
+
+.submit-button {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.submit-button input[type="submit"] {
+    padding: 5px 10px;
+}
+
+.warning {
+    outline: 2px solid red;
+}
+
+.inline-fields {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+}
+
+.inline-fields label {
+flex-basis: 120px;
+flex-shrink: 0;
+}
+
+.inline-fields input[type="text"],
+.inline-fields select {
+flex-grow: 1;
+width: 100%;
+}
+
+.form-container {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #A5C3C1;
+    border: 1px solid #ccc;
+    z-index: 9999;
+    width: max-content;
+    max-height: 700px;
+    height: 100%;
+    border: 5px solid black;
+}
+
+.form-content {
+    display: grid;
+    grid-gap: 30px;
+    max-width: 100%;
+    height: 600px%;
+    max-height: 1000px;
+    overflow-y: auto;
+}
+
+.form-content > div {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select {
+    width: 95%;
+    box-sizing: border-box;
+}
+
+.form-buttons {
+    margin-left: 0px;
+    margin-top: 5px;
+    text-align: left;
+}
+
+.align-right {
+    float: right;
+}
+

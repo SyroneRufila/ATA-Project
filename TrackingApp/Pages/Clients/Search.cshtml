@@ -1,0 +1,330 @@
+﻿@page
+@model TrackingApp.Pages.Clients.SearchModel
+@{
+    ViewData["Title"] = "Status";
+}
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/css/site.css" />
+
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container d-flex justify-content-between align-items-center">
+            <div class="logo-wrapper">
+                <div class="logo-container">
+                    <h1 class="logo-text">STI GO</h1>
+                </div>
+            </div>
+            <div class="button-container">
+                <a href="/Clients/List" class="button">Admin</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="Bodypage">
+        <div class="container d-flex justify-content-between align-items-center vh-100">
+            <div class="image-container">
+                <img src="https://shorturl.at/hipyZ" alt="Image 1" class="slideshow-image active">
+                <img src="https://shorturl.at/bpFIY" alt="Image 2" class="slideshow-image">
+            </div>
+
+            <div class="blog-box">
+                <div class="blog-box1">
+                    <a href="https://www.sti.edu/admissions_registration.asp" target="_blank">
+                        <img src="https://shorturl.at/iUX67" alt="Image 3" class="apply">
+                    </a>
+                    <a href="https://www.sti.edu/campuses.asp">
+                        <img src="https://shorturl.at/nrEJ2" alt="Image 4" class="campus">
+                    </a>
+                </div>
+            </div>
+
+            <div class="search-box">
+                <h5>Track your request online.</h5>
+                <form method="get" class="form-inline align-items-center" action="/Clients/Stat" onsubmit="return validateForm(event)">
+                    <input type="text" id="form1" class="form-control border-black" name="trackingNumber" placeholder="Tracking Number" aria-label="Search" required />
+                    <div class="button-container">
+                        <button type="submit" class="button" name="submitType" value="track">Track</button>
+                        <button type="button" id="requestButton" class="button" onclick="toggleFormContainer()">Request</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <form method="post">
+            <div class="form-container" id="formContainer">
+                <h2>Online Document Form</h2>
+                <div class="form-content">
+                    <div class="form-content">
+                        <div>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">Select Program</span>
+                                </div>
+                                <select class="form-control" id="program" asp-for="AddClientRequest.program" required>
+                                    <option value="" disabled selected>Select Course</option>
+                                    <optgroup label="2-year Programs">
+                                        <option value="ACT">Associate in Computer Technology (ACT)</option>
+                                        <option value="IT">Information Technology (IT)</option>
+                                        <option value="ART">Associate in Retail Technology (ART)</option>
+                                        <option value="PCA">Professional Culinary Arts</option>
+                                        <option value="HRS">Hospitality and Restaurant Services (HRS)</option>
+                                        <option value="TEM">Tourism and Events Management (TEM)</option>
+                                    </optgroup>
+                                    <optgroup label="Bachelor's Programs">
+                                        <option value="BSA">BS in Accountancy (BSA)</option>
+                                        <option value="BSAIS">BS in Accounting Information System (BSAIS)</option>
+                                        <option value="BSBA">BS in Business Administration (BSBA)</option>
+                                        <option value="BSCS">BS in Computer Science (BSCS)</option>
+                                        <option value="BSCpE">BS in Computer Engineering (BSCpE)</option>
+                                        <option value="BSCM">BS in Culinary Management (BSCM)</option>
+                                        <option value="BSIT">BS in Information Technology (BSIT)</option>
+                                        <option value="BSIS">BS in Information Systems (BSIS)</option>
+                                        <option value="BSHM">BS in Hospitality Management (BSHM)</option>
+                                        <option value="BSMA">BS in Management Accounting (BSMA)</option>
+                                        <option value="BMMA">Bachelor of Multimedia Arts (BMMA)</option>
+                                        <option value="BACOMM">BA in Communication (BACOMM)</option>
+                                        <option value="BSMarE">Bachelor of Science in Naval Architecture and Marine Engineering (BSNAME)</option>
+                                        <option value="BSMT">Bachelor of Science in Marine Transportation (BSMT)</option>
+                                        <option value="BSRTCS">BS in Retail Technology and Consumer Science (BSRTCS)</option>
+                                        <option value="BSTM">BS in Tourism Management (BSTM)</option>
+                                    </optgroup>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="name-fields">
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">First Name</span>
+                                    </div>
+                                    <input type="text" class="form-control" asp-for="AddClientRequest.firstname" required />
+                                </div>
+                            </div>
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Last Name</span>
+                                    </div>
+                                    <input type="text" class="form-control" asp-for="AddClientRequest.lastname" required />
+                                </div>
+                            </div>
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Middle Name</span>
+                                    </div>
+                                    <input type="text" class="form-control" asp-for="AddClientRequest.middlename" required />
+                                </div>
+                            </div>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">Suffix Name</span>
+                                </div>
+                                <select class="form-select" id="suffixname" value="Select Options" asp-for="AddClientRequest.suffixname" required>
+                                    <option value=" ">None</option>
+                                    <option value="Sr.">Sr.</option>
+                                    <option value="Jr.">Jr.</option>
+                                    <option value="Others">Others</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="address-fields">
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Present Address</span>
+                                    </div>
+                                    <input type="text" class="form-control" asp-for="AddClientRequest.housenumber" required />
+                                </div>
+                            </div>
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Country</span>
+                                    </div>
+                                    <input type="text" id="country" name="country" value="Philippines" class="form-control" asp-for="AddClientRequest.country" required>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Zip Code</span>
+                                    </div>
+                                    <input type="text" class="form-control" asp-for="AddClientRequest.zipcode" required />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="graduation">
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Graduate</span>
+                                    </div>
+                                    <select class="form-select" id="graduate" asp-for="AddClientRequest.graduate" required>
+                                        <option value="Yes">Yes</option>
+                                        <option value="No">No</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Year Graduated</span>
+                                    </div>
+                                    <input type="text" id="yeargraduated" class="form-control" asp-for="AddClientRequest.yeargraduated" required />
+                                </div>
+                            </div>
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Student Number</span>
+                                    </div>
+                                    <input type="text" class="form-control" asp-for="AddClientRequest.studentnumber" required />
+                                </div>
+                            </div>
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Email</span>
+                                    </div>
+                                    <input type="email" class="form-control" asp-for="AddClientRequest.email" required />
+                                </div>
+                            </div>
+                            <div>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text">Mobile Number</span>
+                                    </div>
+                                    <input type="text" class="form-control" asp-for="AddClientRequest.mobilenumber" required />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">Are you currently employed</span>
+                                </div>
+                                <select class="form-select" id="employed" value="Select Options" asp-for="AddClientRequest.employment" required>
+                                    <option value="No">No</option>
+                                    <option value="Yes">Yes</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="employment-details" id="employmentDetails" style="display: none;">
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">Current Employer</span>
+                                </div>
+                                <input type="text" id="currentEmployer" class="form-control" asp-for="AddClientRequest.currentemployer">
+                            </div>
+                            <div class="input-group" style="padding-top: 20px; padding-bottom: 20px;">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">Year of Stay</span>
+                                </div>
+                                <input type="text" class="form-control" asp-for="AddClientRequest.yearsstay">
+                            </div>
+                            <div class="input-group" style="padding-bottom: 20px;">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">Position</span>
+                                </div>
+                                <input type="text" class="form-control" asp-for="AddClientRequest.position">
+                            </div>
+                            <div class="input-group" style="padding-bottom: 20px;">
+
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">Job Level</span>
+                                </div>
+                                <input type="text" class="form-control" asp-for="AddClientRequest.joblevel" >
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">Document(s) Request</span>
+                                </div>
+                                <select class="form-select" asp-for="AddClientRequest.recordRequested" required>
+                                    <option value="">Select Option </option>
+                                    <option value="Diploma">Diploma</option>
+                                    <option value="Form137">Form 137</option>
+                                    <option value="Certification">Certification</option>
+                                    <option value="Others">Others</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-buttons">
+
+                        <div class="submit-button">
+                            <button type="submit" id="subBut" class="button" name="submitType" value="submit">Submit Request</button>
+                        </div>
+
+                        <div class="back-buttons">
+                            <button type="button" id="backButton" class="button align-right" onclick="toggleFormContainer()">Back</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+
+
+
+
+
+
+
+        @if (Model.Client != null)
+        {
+            <div class="card mt-4">
+                <div class="card-header">
+                    Search Results
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Tracking Number: @Model.Client.trackingnumber</li>
+                    <li class="list-group-item">Full Name: @Model.Client.firstname @Model.Client.middlename @Model.Client.lastname @Model.Client.suffixname</li>
+                    <li class="list-group-item">Student Number: @Model.Client.studentnumber</li>
+                    <li class="list-group-item">Program: @Model.Client.program</li>
+                    <li class="list-group-item">
+                        Document Requested: @Model.Client.recordRequested
+                        @Model.Client.others
+                    </li>
+                    <li class="list-group-item">
+                        Status:
+                        @if (Model.Client.status == "Pending")
+                        {
+                            <span class="badge badge-pill" style="background-color: red; color: white;">Pending</span>
+                        }
+                        else if (Model.Client.status == "Received")
+                        {
+                            <span class="badge badge-pill" style="background-color: green; color: white;">Completed</span>
+                        }
+                    </li>
+                </ul>
+            </div>
+        }
+    </div>
+
+
+
+</body>
+
+
+
+<script src="~/js/track.js" asp-append-version="true"></script>
+</html>
+
+
+
+
+
+
